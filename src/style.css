@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title> Photography today class="bunny-song"</title>
+        <style>
+
+h2 {
+  color : rgb(0,128,128);
+  background-color : black;
+  font-family: helvetica, sans-serif;
+  font-size: 1.5em;
+  text-decoration: none;
+}
+
+h1 {
+  color : rgb(0,128,128);
+  background-color : black;
+  font-family: helvetica, sans-serif;
+  font-size: 2em;
+  text-align: center;
+  text-decoration: none;
+}
+
+h0 {
+  color : rgb(0,128,128);
+  font-family: helvetica, sans-serif;
+  font-size: 2em;
+  text-align: center;
+  text-decoration: none;
+}
+
+
+h3, h4, h5 {
+  color : rgb(0,128,128);
+  background-color : black;
+  font-family: helvetica, sans-serif;
+  font-size: 1.5em;
+  text-decoration: none;
+}
+
+
+body {
+    Background-color: rgb(220,220,220);
+    font-size: 14px;
+    text-decoration: none;
+}
+
+
+p {
+       color : rbg(175,238,238);
+  font-family: light-cursive,sans-serif;
+  line-height: 1.5em;
+  text-decoration: none;
+  }
+
+
+#artistic-side 
+{
+        color: rgb(0,128,128);
+  font-family: helvetica, sans-serif;
+  font-style : italic;
+  text-decoration: none;
+}
+
+
+.bunny-song 
+{
+  background-color : white;
+  text-decoration: none;
+}
+
+#ed-wood {
+  margin: auto;
+  width : 1600px;
+  border : 1px solid white;
+  border-top: 5px solid white; 
+  padding: 15px;
+  text-decoration: none;
+}
+
+
+.marbella {
+  color: grey;
+}
+
+
+p .marbella {
+  color : rgb(0,128,128);
+}
+
+    
+.lovely {
+  color: rgb(0,128,128);
+  text-decoration: none;
+  margin: 10px;
+}
+
+
+#imogen {
+  border : 4px dotted white;
+  width: 600px;  
+}
+
+#strand {
+  border : 4px dotted white;
+  width: 600px;  
+}
+
+#robert {
+  border : 4px dotted white;
+  width: 600px;  
+}
+
+#bresson {
+  border : 4px dotted white;
+  width: 600px;  
+}
+
+
+ul.character {
+  text-decoration : underline;
+  color: white;
+}
+
+
+a:hover, a:active, a:focus {
+  background-color: rgb(253, 160, 140);
+}
+
+
+</style>
+    </head>
+    <body>
+
+<div id= "ed-wood">
+    <h1>PHOTOGRAPHY</h1>
+
+<h0 style= "background:white; align: center ">Insights about the art of photography</h0><br><br>
+
+     <h2>Famous photographers</h2><br>
+ 
+  <a target="_blank" href="https://expertphotography.com/most-famous-photographers/">Here you can find more information about ones of the most influential photograhy artists.  </a>
+
+      <ol>
+        
+        <li><span class="lovely">Imogen Cunningham</span></li>
+<img id="imogen" src="https://expertphotography.com/wp-content/uploads/2018/07/25-famous-photographers-imogen-cunningham.jpg" alt= "women dancing" width ="500"/>
+<p>Imogen Cunningham was an American photographer whose intimate portraits and floral still lifes are characterized by their evocative light and attention to detail. “One must be able to gain an understanding at short notice and close range of the beauties of character, intellect, and spirit so as to be able to draw out the best qualities and make them show in the outer aspect of the sitter,” she said of portrait photography. Born on April 12, 1883 in Portland, OR, she moved to Seattle with her family at a young age. At 18, Cunningham began experimenting with photography after purchasing a 4x5 inch view camera from a mail order catalogue. In 1907, after receiving a degree in chemistry from the University of Washington, she traveled to Dresden to study fine art at the Technische Hochschule. After studying in Europe, the artist moved to San Francisco where she worked alongside Maynard Dixon, Dorothea Lange, and Edward Weston. It was in the presence of these artists that Cunningham explored new photographic methods, including double exposure and montage printing. Cunningham was an influential member of the renowned f/64 group alongside Ansel Adams and Willard van Dyke. She would go on to have solo exhibitions at the Dallas Art Museum and The Museum of Modern Art in New York. The artist died in San Francisco, CA on June 23, 1976 at the age of 93. Today, Cunningham’s works are held in the National Gallery of Art in Washington, D.C., Philadelphia Museum of Art, and Tokyo Metropolitan Museum of Photography, among others.</p>
+
+       <li><span class="lovely">Paul Strand</span></li> 
+     <img id="strand" src="https://expertphotography.com/wp-content/uploads/2018/07/25-famous-photographers-paulstrand.jpg" alt = "women" width ="500">
+<p>The American artist Paul Strand had a long and productive career with the camera. His pictorialist studies of the 1910s, followed by the coolly seductive machine photographs of the 1920s, like the contemporary work of Alfred Stieglitz and Edward Weston, helped define the canon of early American modernism and set a premium on the elegant print. Experimenting with Charles Sheeler, Strand then pushed further in describing the movement of the city in the short film Manhatta (1920). In the 1930s, he became seriously involved with documentary film and, from the 1940s until the end of his life, he was committed to making photographic books of the highest quality. After 1950, when he relocated to France, landscape, architecture, and portraiture (the traditional humanist genres) continued to inspire Strand to embody the spirit of his subjects in the very materials of the photographic print. The high regard for his mature work suggests that he succeeded in his goals, and that his standards of excellence and his constancy of subject answered very human needs in a century of radical change.</p>
+
+        <li><span class="lovely">Robert Doisneau</span></li>
+      <img id="robert" src="https://expertphotography.com/wp-content/uploads/2018/07/25-famous-photographers-Robert-Doisneau.jpg" alt="ladies with a dog" width ="500" >
+<p>Robert Doisneau was born in 1922 in Gentilly, a suburb of Paris.
+After his undistinguished youth behind the macrame curtains of a conventional middle-class family, Robert is fifteen when he learns engraving and lithography at the Estienne School in Paris and starts designing labels for drug packaging.
+He becames a camera assistant at André Vigneau’s studio in 1931, where he discovers artistic outlets that will spur him on. The four years he spent working for the advertising department of Renault car maker, from where he was fired for repeated lateness, led him to the attractive position of independent photographer.
+World War II bursts out then, putting an end to his projects. Later, in the Parisian post-war euphoria, despite the fact that he daily deals with orders to make a living, he hoards the photos that will meet with great success, obstinately cruising where “there is nothing to see”, favoring furtive points, tiny pleasures lit by the ’ reflections of sunbeams on cities’ asphalt.
+When he died in April 1994, he left behind 450,000 negatives that tell an entertaining story of his time with a tender and observant eye, which must not hide the depth of his thought, his irreverent attitude toward power and authority, his relentlessly free-thinking mind.</p>
+
+
+      <li><span class="lovely">Henri-Cartier Bresson</span></li>
+    <img id="bresson" src="https://expertphotography.com/wp-content/uploads/2018/07/Henri-Cartier-Bresson.-Simiane-la-Rotonde-France.-1969.-Gelatin-silver-print-1024x683.jpg" alt="children chilling" width ="500">
+ <p>Born in Chanteloup-en-Brie, Seine-et-Marne, Henri Cartier-Bresson developed a strong fascination with painting early on, and particularly with Surrealism. In 1932, after spending a year in the Ivory Coast, he discovered the Leica – his camera of choice after that moment – and began a life-long passion for photography. In 1933, he had his first exhibition at the Julien Levy Gallery in New York. He later made films with Jean Renoir.
+Taken prisoner of war in 1940, he escaped on his third attempt in 1943 and subsequently joined an underground organization to assist prisoners and escapees. In 1945, he photographed the liberation of Paris with a group of professional journalists and then filmed the documentary Le Retour (The Return).
+In 1947, with Robert Capa, George Rodger, David ‘Chim’ Seymour and William Vandivert, he founded Magnum Photos. After three years he had spent travelling in the East, in 1952, he returned to Europe, where he published his first book, Images à la Sauvette (published in English as The Decisive Moment). He explained his approach to photography in these terms, ‘”For me the camera is a sketch book, an instrument of intuition and spontaneity, the master of the instant which, in visual terms, questions and decides simultaneously. It is by economy of means that one arrives at simplicity of expression.”
+From 1968, he began to curtail his photographic activities, preferring to concentrate on drawing and painting. In 2003, with his wife and daughter, he created the Fondation Henri Cartier-Bresson in Paris for the preservation of his work. Cartier-Bresson received an extraordinary number of prizes, awards, and honorary doctorates. He died at his home in Provence on 3 August 2004, a few weeks short of his 96th birthday.</p>
+
+
+      </ol>
+      
+      <h2><a>Shadow and light through photography</h2></a>
+      
+      <p class="bunny-song"><strong><span class ="lovely">Light and shadow</span></strong> photography is using strong lights and shadows to create abstract or anonymous silhouettes. Especially in monochrome with the <em class="marbella">high</em> contrast lighting, the images create unique perspectives. When you have <em class="marbella">harsh</em> lights or <em class="marbella" >bright</em> light sources, you can create really great light and shadow images. Shadows can help to direct attention to a specific point in the composition. They can reveal form or hide features that may be better left unseen. They can also be used to add hint of drama, emotion, interest, or mystery to a photo. And of course, they can emphasize the light; drawing attention to highlights in an image.</p>
+
+<p class= "bunny-song marbella ">While it takes practice to perfect the balance of perfect light and darkness in your photos, getting started with shadows is relatively simple – there isn’t a huge learning curve that’s required in order to begin. Let’s look at some different ways that you can use shadows to create dynamic – and exciting images.
+Some of the most used principles and the effects that the light and shadow can affect the photographed subjects are ones of the following:</p>
+
+<ul class= "character">
+        <li id="artistic-side">Add Contrast</li><br>
+        <li id="artistic-side">Serve As a Focal Point</li><br>
+        <li id="artistic-side">Direct Attention</li><br>
+        <li id="artistic-side">Add Contrast</li><br>
+        <li id="artistic-side">Reveal Texture</li><br>
+        <li id="artistic-side">Emphasize Emotion</li><br>
+        <li id="artistic-side">Add Depth and Dimension</li><br>
+        <li id="artistic-side">Use Shadows to Create Color</li>
+
+</ul>
+    
+      <h3>Movement</h3>
+      
+      <p class="bunny-song marbella">Perhaps the most obvious type of movement in photography, <strong><span class ="lovely">suspended <em>movement</em></span></strong> illustrates one of the camera’s most remarkable attributes: the ability to freeze a literal split second, to capture details imperceptible to the human eye. It’s the mid-action pause: hair flying, arms flailing, dust kicking, waves crashing. Get your subjects running, jumping, twirling, tossing, shaking, skipping, leaping. Great implied movement suggests the seconds that will follow the suspended moment, giving a viewer a strong sense of what would happen if the scene <em>“unpaused.”</em></p>
+      
+      <h4><strong>Visuals</strong></h4>
+      
+      <p  class="bunny-song marbella">From mobile photography to virtual reality, the norms of <em>communication</em> are changing. We are becoming more accustomed to not only consuming but creating visual content everyday through apps like Instagram and Snapchat, Facebook and Twitter. We tell our daily stories, expressing who we are by documenting and sharing our experiences visually.</p>
+      
+      <h5><strong>The artistic side pf photography</strong></h5>
+      
+      <p  class="bunny-song marbella">First and foremost, artistic photography has to be transformational, not merely representational. While you might happen to capture an incredible scene on your way to work, your photo can’t be considered art unless it has been changed in some way by your intelligence and thought process. However, this doesn’t mean that artistic photography can only be achieved with complex staging and lighting or digital effects; in fact, some of the most artistic photos ever taken have been landscapes – for example, the work of Ansel Adams.
+
+This is because the artistic transformation is more subtle than most people understand. You can apply an artistic filter to any photograph via the following:</p><br>
+
+      
+    <ul class= "character">
+        <li id="artistic-side">Framing: Simply by choosing to frame or crop the scene in a certain way, you can elevate a photograph to the status of art. Alfred Stieglitz’s famous photograph The Steerage (1907) is often considered the first important artistic photograph ever taken. While it could be seen as purely representational, Stieglitz’s decisions in framing, in what to include in the scene, and linking the various shapes and lines that naturally occurred before him were actually transformational, resulting in a photograph that is true art.</li><br>
+        <li id="artistic-side">Film choice: In the modern age the choice of film stock, color versus black and white, and other technical decisions can act as an artistic filter, transforming a scene even if no other staging or technical alterations are made to it.</li><br>
+        <li id="artistic-side">Positioning: Representational photography must simply take in the scene it comes across. However the scene can be elevated simply by making the decision to shoot the photo from a specific angle, a specific vantage point, and at a specific point in time.</li>
+      </ul>
+
+<a href = "https://www.wallartprints.com.au/blog/artistic-photography/">Read more about Artistic Photography</a><br>
+        
+        
+      <h4><strong>Great principles of photography</strong></h4>
+<p  class="bunny-song marbella">The 7 principles of art and design are balance, rhythm, pattern, emphasis, contrast, unity and movement. Use the elements of art and design – line, shape/form, space, value, color and texture – to create a composition as a whole.
+
+The elements of art and design are the tools of visual artists. The principles of art and design represent how an artist uses these tools to create visual art.
+
+By applying the 7 principles of art and design, photographers can create a cohesive image grounded in the foundations of art theory.</p>
+      
+      <ul class= "character" >
+        <li id="artistic-side">It has a lot of  elements</li><br>
+        <li id="artistic-side">It works as a visual</li><br>
+        <li id="artistic-side">It needs to be very cohesive</li><br>
+        <li id="artistic-side">The light and shadows that are created</li>
+  </ul>
+
+<p class="bunny-song"><p id ="tips-and-tricks">Also if you are a passionate about photography, here are some tips for capturing light and shadows in your projects and how we can look and understand the object that it is photographed.
+If you keep your eyes open, you’ll find plenty of great opportunities to include shadows in your images.
+
+<p class="bunny-song">The dramatic lighting after a storm, or the soft early morning or late afternoon light are all great opportunities to capture beautiful shadows in your compositions. Keep in mind that <strong><span class ="lovely">when the sun is closer to the horizon, the shadows will be longer</span></strong>. In the same way, if you are photographing indoors using a lamp or an off-camera flash, the closer your light source is to the surface, the longer the shadow will be.</p>
+
+<p class="bunny-song">When capturing shadows, it’s a good idea to use your camera in manual mode. This will give you more control over the exposure, and the resulting images. If you use automatic mode, there’s a good chance that your shadows will come out too light.</p>
+
+<p class="bunny-song">You’ll also want to use your camera’s <strong><span class ="lovely">LCD screen or histogram</span></strong> to make sure the image is properly exposed. If it’s not, you can always use exposure value (EV) compensation to adjust it. If you see that a shot is too bright, dial the exposure down to deepen the shadows.</p>
+
+<p class="bunny-song">While light is a vital part of photography, <strong><span class ="lovely">the absence of light is also important</span></strong>. Paying attention to available light, and learning to manipulate it or work with it to intentionally create highlights and lowlights in your images will help you to capture interesting and varied photos drama, depth, and lots of visual interest.</p>
+
+
+</div>
+    </body>
+</html>
